@@ -1,8 +1,12 @@
 
 h1 {
-  color: blue;
+  color: green;
 }
 
 h2 {
+  color: red;
+}
+
+ul li {
   color: green;
 }
